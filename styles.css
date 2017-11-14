@@ -1,0 +1,38 @@
+body{
+    font-family: "Georgia";
+    color: white;
+    text-align: center;
+    vertical-align: top;
+    background: url(https://images.pexels.com/photos/7480/sky-night-stars.jpg?w=940&h=650&auto=compress&cs=tinysrgb) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+button{
+    width: 100px;
+    text-align: center;
+    background-color: purple;
+    border-color: darkblue;
+    color: white;
+}
+
+#image{
+    position: absolute;
+    top: 17.5%;
+    left: 42.5%;
+}
+
+#Sign{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+#output{
+    position: absolute;
+    top: 60%;
+    left: 0%;
+    font-size: 25px;
+}
